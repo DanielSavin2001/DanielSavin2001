@@ -1,8 +1,15 @@
-## Hi there 👋 I am Daniel!
+![Banner](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 
 
+# Hi there 👋 I am Daniel!
 
-<!--   my-skils -->
+## 👨‍💻 Who am I:
+- 💼 IT-Freelancer.
+- 🗺️ Full-Stack Developer @[Digipolis-Antwerp](https://www.digipolisantwerpen.be/), mainly focusing on GIS services.
+- 🎓 Studied @[Karel De Grote College University Antwerp](https://www.kdg.be/).
+- 🏅 Working periodically for the [Olympic Broadcasting Services](https://www.obs.tv/home) since Tokyo 2021.
+
+## 💻 Tech Stack:
 
 | Domain              | Language/Framework/Library|
 |-------------------|-|
@@ -12,6 +19,16 @@
 |**Other**|![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;|
 
 
+
+
+
+
+## 📊 GitHub stats:
+
+
+![GitHub](https://github.com/DanielSavin2001/DanielSavin2001/blob/main/profile-3d-contrib/profile-night-green.svg)
+
+![DanielSavin2001 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSavin2001&theme=blue-green)&nbsp;&nbsp;![DanielSavin2001 stats](https://github-readme-stats.vercel.app/api?username=DanielSavin2001&theme=blue-green) 
 
 
 <!--
